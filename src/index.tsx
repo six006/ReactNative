@@ -20,7 +20,7 @@ export default class App extends Component<Props, State> {
         return (
             <View style={styles.container}>
                 <Text style={styles.text}>
-                    THE END
+                    Hello World
                 </Text>
             </View>
         );

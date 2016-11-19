@@ -3,9 +3,8 @@ import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 export default class App extends Component {
     render() {
-        return (React.createElement(View, {style: styles.container}, 
-            React.createElement(Text, {style: styles.text}, "THE END")
-        ));
+        return (React.createElement(View, { style: styles.container },
+            React.createElement(Text, { style: styles.text }, "Hello World")));
     }
 }
 const styles = StyleSheet.create({
