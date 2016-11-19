@@ -1,0 +1,37 @@
+{
+  "name": "reactnativetslab",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "preinstall": "rm -rf typings",
+    "postinstall": "node node_modules/typings/dist/bin.js install",
+    "android": "node node_modules/react-native/local-cli/cli.js run-android",
+    "ios": "node node_modules/react-native/local-cli/cli.js run-ios",
+    "prebuild": "rm -rf build",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "babel-jest": "16.0.0",
+    "babel-preset-react-native": "1.9.0",
+    "jest": "16.0.1",
+    "jest-react-native": "16.0.0",
+    "minimatch": "^3.0.2",
+    "react-native": "^0.35.0",
+    "react-native-cli": "^1.0.0",
+    "react-test-renderer": "15.3.2",
+    "rf": "0.0.1",
+    "rm": "^0.1.6",
+    "tslint": "^3.15.1",
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0",
+    "whatwg-fetch": "^1.0.0"
+  },
+  "jest": {
+    "preset": "jest-react-native"
+  },
+  "dependencies": {
+    "react": "15.3.2"
+  }
+}

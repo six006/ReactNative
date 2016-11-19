@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-8041ecf8f3cc85c631ea13b5906a066a0ea5ae44.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-ab9c9828bc5b5d1e8ab8ab29bdcecff35d849ab3.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.35.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db2c76df02d034e8d49bca2a69af788a787b46b2">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-94979a40002c56c6de06722dd24414e084f75e45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Seven Technology\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-2c740e4ff1ea1c134cd3c57420313478ae8d5a6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Seven Technology\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-8d8b9af206fa0705a56d880d92307a0040eabc42.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-b61a0bd87130e0911716f054f41ab9d145e94cac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Seven Technology\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-ad72d5124137ddcbc9432eb915c98298e275009d.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-d9aef010ecfbfc388e29542795840b8552f38d5a.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-098d3754015539d43841054d1f77e80d71a0ea8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Seven Technology\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-261b0e503e44873b707498d023ad05361904ca50.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.35.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cdc91752c90040ec7871c44963c63c751b1fa94b">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-ee4a533d81ce9f0b6fc4a53377f71960118a9d03.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-ac1c9e15bccf6934c8e78d5da1e35f3f9881e577.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-9a9d27b6851d66934f63a55b5c76c7917a39bc68.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-421df2562ef9c673410b21a4ec4ab17a5fe77a14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Seven Technology\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-17b70554f658f76fb01da3962e8020beac6d96da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Seven Technology\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-ac3a7216c7ffaae2e56b28ea37334d05b45e5533.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-dc34014560d1146b5611032b96bcb71971746caf.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-a56e9dd4c90bf7079c075061d78cff57c1577e98.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-c0095a055dc4462e9f44283f5cd3460ccfc6c469.jar" />
+    </item>
+    <item
+        jar="C:\Users\Seven Technology\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-c47dadd5bf283e783d20b9f5aac893fec650c151.jar" />
+    </item>
+    <item
+        jar="C:\Users\Seven Technology\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-e4543482d4ffe8585ebe8309d33090b3f345c20e.jar" />
+    </item>
+    <item
+        jar="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\classes-e7d52e4cb89fb9c8d6bc16aae6b450ed94845fe8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Seven Technology\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="F:\From Zero\ReactNative\ReactNativeTS-TM\ReactNativeTSLab\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-b676f272755483efcd6deadf09cf75f224d86c77.jar" />
+    </item>
+
+</items>
