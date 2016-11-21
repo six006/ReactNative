@@ -1,4 +1,4 @@
-# Welcome  [![Build Status](https://travis-ci.org/NativeScript/sample-Groceries.svg?branch=master)](https://travis-ci.org/NativeScript/sample-Groceries) [![dependency status](https://david-dm.org/nativescript/sample-Groceries.svg)](https://david-dm.org/nativescript/sample-Groceries) [![devDependency Status](https://david-dm.org/nativescript/sample-Groceries/dev-status.svg)](https://david-dm.org/nativescript/sample-Groceries#info=devDependencies)
+# Welcome  [![Build Status](https://travis-ci.org/NativeScript/sample-Groceries.svg?branch=master)](https://travis-ci.org/NativeScript/sample-Groceries) [![dependency status](https://david-dm.org/bilalarshad/ReactNative.svg)](https://david-dm.org/bilalarshad/ReactNative) [![devDependency Status](https://david-dm.org/nativescript/sample-Groceries/dev-status.svg)](https://david-dm.org/bilalarshad/ReactNative#info=devDependencies)
 This is a learning project for ReactNative with TypeScript. I am testing different possibilities and tools which are available with Visual Studio Code. 
 
 My main focus is to 
